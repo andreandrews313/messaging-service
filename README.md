@@ -10,3 +10,5 @@ Completed Unified messaging Application for HatchAI
 3. Run `docker-compose up -d` to start the PostgreSQL database, or modify it to choose a database of your choice
 4. Run `make run` to start the application
 5. Run `make test` to run tests
+
+For easier testing, navigate to localhost:8080/swagger 
